@@ -1,1 +1,0 @@
-# Color-identification-in-images
